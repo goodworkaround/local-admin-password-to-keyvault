@@ -1,0 +1,1 @@
+# local-admin-password-to-keyvault
